@@ -9,6 +9,8 @@ public class AzureSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AzureSpringApplication.class, args);
 		System.out.println("ABCD");
+System.out.println("ABCDE");
+
 	}
 
 }
